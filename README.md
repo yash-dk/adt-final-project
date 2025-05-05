@@ -1,4 +1,4 @@
-# Stock Market Analysis Dashboard
+# Financial Market Insights and Analysis Platform
 
 ## Description
 This is out ADT project that provides real-time stock data, technical analysis, candlestick pattern recognition, volatility tracking, and news integration. The system consists of a FastAPI backend and React TypeScript frontend.
